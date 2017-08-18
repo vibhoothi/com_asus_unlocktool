@@ -1,4 +1,4 @@
-.class public Lcom/asus/unlock/device/ME175KG;
+.class public Lcom/asus/unlock/device/ME372CG;
 .super Lcom/asus/unlock/device/A66;
 
 # interfaces
