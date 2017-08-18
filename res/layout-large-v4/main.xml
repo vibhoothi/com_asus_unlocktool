@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0sp" android:id="@id/alertTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginTop="15.0dip" android:layout_marginRight="60.0dip" android:text="@string/alert_title" android:layout_alignParentLeft="true" />
+    <TextView android:textSize="16.0sp" android:id="@id/alertContent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="60.0dip" android:text="@string/alert_content" android:layout_alignParentLeft="true" />
+    <View android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="60.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="60.0dip" />
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <CheckBox android:textSize="22.0dip" android:id="@id/checkbox_agree" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginTop="20.0dip" android:text="@string/agree" android:layout_alignParentLeft="true" />
+        <Button android:enabled="false" android:textSize="23.0dip" android:textStyle="bold" android:state_pressed="true" android:id="@id/chkbtn" android:paddingLeft="30.0dip" android:paddingRight="30.0dip" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginRight="60.0dip" android:layout_marginBottom="45.0dip" android:text="@string/check_unlock" android:cursorVisible="false" android:drawableLeft="@drawable/unlockx" android:drawablePadding="15.0dip" android:layout_below="@id/checkbox_agree" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</LinearLayout>

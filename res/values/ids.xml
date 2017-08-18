@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="list">false</item>
+    <item type="id" name="agree_btn">false</item>
+    <item type="id" name="layout_root">false</item>
+    <item type="id" name="eulaTitle">false</item>
+    <item type="id" name="Googlepw">false</item>
+    <item type="id" name="username">false</item>
+    <item type="id" name="GooglePassword">false</item>
+    <item type="id" name="alert_icon">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="alertContent">false</item>
+    <item type="id" name="checkbox_agree">false</item>
+    <item type="id" name="chkbtn">false</item>
+    <item type="id" name="layout_pin">false</item>
+    <item type="id" name="not_owner">false</item>
+    <item type="id" name="pinpw">false</item>
+    <item type="id" name="pinpassword">false</item>
+    <item type="id" name="unlock_fail">false</item>
+    <item type="id" name="warning">false</item>
+</resources>

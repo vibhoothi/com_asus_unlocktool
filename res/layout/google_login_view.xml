@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/layout_root" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/Googlepw" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="32.0px" android:layout_marginTop="10.0dip" android:layout_marginRight="32.0px" android:text="@string/google_pass_word" android:layout_alignParentLeft="true" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/username" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="32.0px" android:layout_marginTop="10.0dip" android:layout_marginRight="32.0px" android:text="@string/google_pass_user" android:layout_alignParentLeft="true" />
+    <EditText android:id="@id/GooglePassword" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="32.0px" android:layout_marginTop="23.0dip" android:layout_marginRight="32.0px" android:layout_marginBottom="60.0dip" android:hint="@string/google_pass_word_hint" android:password="true" android:layout_alignParentLeft="true" android:inputType="textImeMultiLine" />
+</LinearLayout>

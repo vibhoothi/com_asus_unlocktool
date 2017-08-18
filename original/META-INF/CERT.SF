@@ -1,0 +1,115 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: oql7dzEWW1vYjI43bV7gFRIaU5U=
+
+Name: res/drawable/unlock.png
+SHA1-Digest: EkD1odvSM5aIlDwpNTFo7u3OREs=
+
+Name: res/layout-large/main.xml
+SHA1-Digest: /nz4npGEQ3u4KFpx1LUNh+JXcl0=
+
+Name: res/layout/eula_item.xml
+SHA1-Digest: TVNI0Iz9GMyE5Krc75QzXiIzK3s=
+
+Name: res/layout/pin_login_view.xml
+SHA1-Digest: wYx/kHsvyAw9CYBmrNXzy02x5Yo=
+
+Name: res/drawable/checkbox_on3.png
+SHA1-Digest: 7Q3mGalJs7YfjH17TScKR+A7/SQ=
+
+Name: resources.arsc
+SHA1-Digest: Ik44efNkJInCrQGf7SNFyRjcu50=
+
+Name: res/drawable/checkbox_off.png
+SHA1-Digest: PJreNXgeOsb85n3IG9BU8SZdIIo=
+
+Name: res/layout/google_login_view.xml
+SHA1-Digest: DOBdyrY/8En2VOIwHAAWHUH2+10=
+
+Name: AndroidManifest.xml
+SHA1-Digest: F0wk1pJGeuFLGLOyLGTNXOlNSw4=
+
+Name: res/drawable/unlockx.png
+SHA1-Digest: nm9JEIzeNE5giTdA1N9fbb0G/1Q=
+
+Name: res/layout/eula_title_layout.xml
+SHA1-Digest: EYML295BdMqruTMAtCH2htsgw9Q=
+
+Name: res/drawable/unlock_s.png
+SHA1-Digest: 1DCC25HZYtf64ro5K/8cUlLB7OA=
+
+Name: res/color/eula_checkbox.xml
+SHA1-Digest: Yg6wJOhtt1lL32Ym6HBaxCoylYM=
+
+Name: res/drawable/checkbox_dis2.png
+SHA1-Digest: 9jn07mZL8WknQOYo0NGPbKsnVjY=
+
+Name: res/layout/eula_layout.xml
+SHA1-Digest: dJzWqgzq/fNqNa4uU08bSjw6rjw=
+
+Name: res/color/asus_ep_remote_text_color.xml
+SHA1-Digest: fdfWgmSaM/5LQi6C1/yzvPZl/9o=
+
+Name: res/drawable/checkbox_on.png
+SHA1-Digest: PH2j9q/ZZvP3U62vycQoVECV1Vs=
+
+Name: res/drawable/checkbox_on2.png
+SHA1-Digest: phbYHCAN/vQL0M1gg1aD1o4Vs+o=
+
+Name: res/drawable/wheel.jpg
+SHA1-Digest: nEdv/Kg6qMhkJuS3CuXnj59y6LQ=
+
+Name: res/layout/not_owner_view.xml
+SHA1-Digest: MHwGA9aLcIPlS5m9hYvkxJMOteY=
+
+Name: res/drawable/btn_check_off_holo_dark.png
+SHA1-Digest: eaEZ+1rQAlO770r78rFaKCi1a4g=
+
+Name: res/drawable/checkbox_off3.png
+SHA1-Digest: ZeFJ6JxcFL9dtcBDftTi9BWtrp8=
+
+Name: res/drawable/unlock_iconx.jpg
+SHA1-Digest: RtR5OCcgCG2gW0D2Xv3D+tejCrE=
+
+Name: res/drawable/checkbox_off2.png
+SHA1-Digest: nmK1JzHR+hfogi55G/TV1TIdmvQ=
+
+Name: classes.dex
+SHA1-Digest: Fn+M+ikXQDpI/Xe43Ydl4SurATM=
+
+Name: res/drawable/unlock_icon.png
+SHA1-Digest: 6kg3VKY5eKjU8fUMMwnm8StDy5c=
+
+Name: res/drawable/alert.png
+SHA1-Digest: g24MTjdovdQdbOg6OtsNni1kzPI=
+
+Name: res/raw/keystore.bks
+SHA1-Digest: 8q8K7CAWoyfTv5kWxqp3483cLoI=
+
+Name: res/drawable/unlockxx.jpg
+SHA1-Digest: 0Me+PMV2p4EZ940pZLDv9EzhVs8=
+
+Name: res/layout/main.xml
+SHA1-Digest: tVGEcr0jM7q2WtGxTjWEO4XAv9I=
+
+Name: res/drawable/check_box.xml
+SHA1-Digest: 2a5dI7TDlnWe0WCqmk5Kv0oacDU=
+
+Name: res/drawable-mdpi/unlockx.png
+SHA1-Digest: pthqDg1DHEe1uXFzqoZGDa3M67Q=
+
+Name: res/drawable/icon.png
+SHA1-Digest: q7x8UcKif5R8KiD4yZtohtx/+xo=
+
+Name: res/color/panel_textcolor.xml
+SHA1-Digest: 2Qx/SfjLjfwWhkRvHRHvY98gWbQ=
+
+Name: res/layout/unlock_fail_view.xml
+SHA1-Digest: uVEX3Ze+XEgSz+o4G8W+SN4cnzw=
+
+Name: res/layout/warning_view.xml
+SHA1-Digest: TRDwFjeQvQatSIkp5Fdi60bhFYQ=
+
+Name: res/drawable/checkbox_dis.png
+SHA1-Digest: w9HWVE4T6nBvX9vFedbM/v3/4Q0=
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/alert_icon" android:layout_width="77.0dip" android:layout_height="77.0dip" android:layout_marginTop="10.0dip" android:src="@drawable/alert" android:scaleType="fitCenter" android:layout_alignBottom="@id/alert_icon" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="337.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="17.0sp" android:textStyle="bold" android:id="@id/alertTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip" android:layout_marginTop="17.0dip" android:layout_marginRight="33.0dip" android:text="@string/alert_title" android:layout_alignParentLeft="true" />
+            <TextView android:textSize="13.0sp" android:id="@id/alertContent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip" android:layout_marginTop="17.0dip" android:layout_marginRight="33.0dip" android:text="@string/alert_content" />
+            <CheckBox android:textSize="17.0sp" android:textStyle="bold" android:id="@id/checkbox_agree" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="33.0dip" android:layout_marginTop="17.0dip" android:layout_marginRight="33.0dip" android:text="@string/agree" />
+        </LinearLayout>
+    </ScrollView>
+    <Button android:enabled="false" android:textSize="17.0sp" android:textStyle="bold" android:state_pressed="true" android:layout_gravity="center" android:id="@id/chkbtn" android:clickable="true" android:layout_width="307.0dip" android:layout_height="73.0dip" android:layout_marginLeft="33.0dip" android:layout_marginTop="17.0dip" android:layout_marginRight="33.0dip" android:layout_marginBottom="81.0dip" android:text="@string/check_unlock" android:cursorVisible="false" android:drawableLeft="@drawable/unlockx" android:drawablePadding="3.0dip" />
+</LinearLayout>

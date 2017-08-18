@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="15.0dip" android:paddingTop="10.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:gravity="left" android:id="@id/list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <View android:background="#ff00baab" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="15.0dip" />
+    <CheckBox android:enabled="false" android:textSize="14.0sp" android:textColor="@color/eula_checkbox" android:id="@id/agree_btn" android:paddingLeft="60.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="15.0dip" android:button="@drawable/check_box" android:text="@string/agree_btn" android:layout_alignParentLeft="true" />
+</LinearLayout>
