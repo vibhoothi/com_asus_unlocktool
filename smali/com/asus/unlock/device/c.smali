@@ -163,6 +163,21 @@
 
     goto :goto_0
 
+    :cond_10
+    invoke-static {}, Lcom/asus/unlock/device/c;->w()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_a
+
+    new-instance v0, Lcom/asus/unlock/device/ME372CG;
+
+    invoke-direct {v0, p1}, Lcom/asus/unlock/device/ME372CG;-><init>(Landroid/content/Context;)V
+
+    sput-object v0, Lcom/asus/unlock/device/c;->a:Lcom/asus/unlock/aa;
+
+    goto :goto_0
+
     :cond_a
     invoke-static {}, Lcom/asus/unlock/device/c;->x()Z
 
